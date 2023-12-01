@@ -12,6 +12,8 @@ Hairless MIDI<->Serial Bridge is the easiest way to connect serial devices (like
 
 https://projectgus.github.io/hairless-midiserial/
 
+Make sure the baud rate is set to 115200, which is the baud rate defined in the code.
+
 ### Loop Be 1
 A Free Virtual MIDI Driver
 

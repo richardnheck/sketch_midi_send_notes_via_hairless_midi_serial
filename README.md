@@ -12,7 +12,7 @@ Just an Arduino Uno or Uno compatible board
 
 ## Dependencies
 - [Arduino IDE](https://www.arduino.cc/en/software)
-- [Midi Library](https://www.arduino.cc/reference/en/libraries/midi-library/) which can be installed easily via the Library Manager
+- [Midi Library](https://www.arduino.cc/reference/en/libraries/midi-library/) which can be installed easily via the Library Manager in Arduino IDE
 
 ## Demo
 In the screenshot you can see the Midi Hairless Bridge logging the midi note on and off messages.  The midi is mapped to LoopBe internal midi which will appear as an input midi device in a DAW (in this case FL Studio).

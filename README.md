@@ -20,6 +20,9 @@ Note that the last midi note logged is 78 with a velocity of 127.  This maps to 
 
 ![image](https://github.com/richardnheck/sketch_midi_send_notes_via_hairless_midi_serial/assets/33075140/1b00fbbe-87a5-47ec-aaa2-443b53aae1f5)
 
+### LoopBe Internal midi
+After installing LoopBe, LoopBe Internal Midi should automatically appear as a midi device in your DAW's midi settings
+![image](https://github.com/richardnheck/sketch_midi_send_ctrl_change_from_potentiometer/assets/33075140/0f43c784-fd6d-4398-ba6c-57757911da9a)
 
 ## References
 ### Arduino and USB Midi
